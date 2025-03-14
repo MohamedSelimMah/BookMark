@@ -2,6 +2,7 @@
 
 A cross-platform reading tracker and social platform for book lovers (Android & Desktop), helping readers organize their libraries and share literary adventures.
 
+![Logo](logo.jpg)  
 
 
 ## Features ✨
