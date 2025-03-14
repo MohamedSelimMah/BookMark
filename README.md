@@ -15,7 +15,4 @@ A cross-platform reading tracker and social platform for book lovers (Android & 
 - **Book Discovery**: Search by title/author/genre, bestseller lists
 
 ### Technical Highlights
-- 🔄 **Real-time Sync**: Firebase/Backend integration
-- 📱 **Cross-Platform**: Native Android (Kotlin/Java) & Desktop (JavaFX/Electron?)
-- 🔍 **Book API Integration**: Google Books API/OpenLibrary
-- 🔒 **Secure Auth**: OAuth2 or Email/Password login
+- 🎯 **Built with Flutter**: Single codebase for Android & Desktop
